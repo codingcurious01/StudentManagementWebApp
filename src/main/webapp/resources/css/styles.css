@@ -1,0 +1,37 @@
+body {
+    color: #40514e;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+h2{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+body .banner{
+	padding: 144px;
+	text-align: center;
+}
+
+.top-container{
+	background-color: red;
+	padding: 20px;
+	position: relative;
+}
+
+.bottom-container{
+	background-color: blue;
+	padding: 20.2px;
+	position: relative;
+}
+
+.admin-form{
+	position: absolute;
+	right: 50px;
+	top: 20px;
+}
+
+.navbar{
+	background-color: #FF9800;
+}
